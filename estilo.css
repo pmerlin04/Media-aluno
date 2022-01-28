@@ -1,0 +1,41 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-image: url(img/sala-de-aula.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    font-family:  spotify-circular, Helvetica, Arial, sans-serif;
+    overflow: hidden;
+}
+
+header h1{
+    text-align: center;
+    font-weight: 700;
+}
+
+.quadro{
+    width: 380px;
+    height: 188px;
+    background-color: #1ed760;
+    margin-left: 579px;
+    margin-top: 246px;
+}
+
+input[type=button]{
+    margin-left: 110px;
+    margin-top: 70px;
+    height: 50px;
+    width: 150px;
+    font-weight: 700;
+}
+
+#res{
+    width: 380px;
+    background-color: #fff;
+    margin-top: 50px;
+    text-align: center;
+    font-weight: 600;
+}
